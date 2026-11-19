@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">opencode</string>
+    <string name="launch_url" translatable="false">https://opencode.xsyu.top/</string>
+    <string name="asset_statements" translatable="false">
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "top.xsyu.opencode",
+    "sha256_cert_fingerprints": ["F9:8C:94:12:23:AC:53:A5:92:1D:5D:5B:76:98:75:F7:96:A3:E3:29:6E:59:51:C8:67:F9:36:79:FE:8C:8C:C3"]
+  }
+}]
+    </string>
+</resources>

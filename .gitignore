@@ -1,0 +1,16 @@
+# 签名私钥：只存在本地和 GitHub Secrets，不进仓库
+android/keystore/*.jks
+android/keystore/*.keystore
+
+# Gradle / 构建产物
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+*.apk
+*.aab
+
+# 系统杂物
+.DS_Store
+Thumbs.db
